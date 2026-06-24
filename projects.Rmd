@@ -1,0 +1,14 @@
+---
+title: "Projects"
+output: html_document
+---
+
+# Projects
+
+Here are some example projects:
+
+- Project 1: Data Visualization
+- Project 2: Reproducible Research
+- Project 3: Interactive Dashboards
+
+Add details, images, or code examples for each project.

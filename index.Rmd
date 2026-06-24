@@ -1,0 +1,17 @@
+---
+title: "Home"
+output: html_document
+---
+
+# Welcome to My Website
+
+This is the **home page** of your RMarkdown website.
+
+You can add text, images, code, and interactive plots!
+
+```{r cars-plot, echo=FALSE}
+plot(cars)
+```
+
+Explore the navigation bar to find more pages.
+

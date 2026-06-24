@@ -1,0 +1,14 @@
+---
+title: "About"
+output: html_document
+---
+
+# About This Site
+
+This simple website was built using RMarkdown and the `render_site()` function.
+
+- Fully reproducible
+- Easy to maintain and update
+- Great for sharing projects, portfolios, or course materials
+
+Find the source on [GitHub](https://github.com/yourusername/yourrepo).

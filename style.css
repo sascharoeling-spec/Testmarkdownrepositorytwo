@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  background: #f9f9f9;
+  color: #222;
+}
+
+.navbar {
+  background: #17406a;
+}
+
+.navbar a {
+  color: #fff !important;
+}
